@@ -20,6 +20,8 @@
 > Deploy Your Bot On Heroku ✏
 <div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
 
+#Deploy Your Bot On Railway 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/_Uoiyx?referralCode=AkkiFj)
 ***
 # Deployment link not working?
 
